@@ -23,6 +23,9 @@ public class DayOfMonth {
                 break;
             case 2:
                 System.out.println("Tháng trên có 28 hoặc 29 ngày");
+            default:
+                System.out.println("Tháng không hợp lệ vui lòng nhập lại");
+
         }
     }
 }
