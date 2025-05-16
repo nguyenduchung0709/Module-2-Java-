@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/week-1-vong-lap-trong-Java.iml" filepath="$PROJECT_DIR$/week-1-vong-lap-trong-Java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/week-1-system-time/untitled.iml" filepath="$PROJECT_DIR$/week-1-system-time/untitled.iml" />
+>>>>>>> d8bb8a1ace5ab914d180b00082e22184f22f4c49
     </modules>
   </component>
 </project>
